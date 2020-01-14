@@ -1,1 +1,1 @@
-include ':app', ':android-volley-master', ':lib'
+include ':app'
